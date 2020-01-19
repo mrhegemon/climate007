@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Water Sandbox/Maestro/Scenes/Hoops.unity
+    guid: 264dcff2db67e5643ab0f60a4a79a477
+  - enabled: 0
+    path: Assets/Water Sandbox/Maestro/Scenes/Hoops_HapticDriver.unity
+    guid: 2a0e3dcb6edcf894b969805491c75859
+  - enabled: 0
+    path: Assets/Water Sandbox/Maestro/Scenes/Sandbox_HapticDriver.unity
+    guid: cdfbbf3b880ccfe40ac577881ed0b8c6
+  - enabled: 0
+    path: Assets/Water Sandbox/Maestro/Scenes/Sandbox_Leap_Test.unity
+    guid: b45f2543187819649ab601ca0101d24d
+  - enabled: 1
+    path: Assets/Water Sandbox/Maestro/Scenes/Sandbox_Leap.unity
+    guid: ab654e64a7bb20b419b0060ba2342cbc
   m_configObjects: {}

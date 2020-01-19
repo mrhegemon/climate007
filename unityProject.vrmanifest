@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.interactiondemo.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Liam\\dev\\unity\\water\\WaterSandbox\\NewHoops\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "HoopsUpgrade [Testing]"
+        }
+      }
+    }
+  ]
+}
